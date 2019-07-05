@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clandon Dafodils Server Database v1.0.1">
+    <output-path>$PROJECT_DIR$/out/artifacts/Clandon_Dafodils_Server_Database_v1_0_1</output-path>
+    <root id="archive" name="Clandon Dafodils Server Database v1.0.1.jar" />
+  </artifact>
+</component>
